@@ -2,7 +2,7 @@
 
 ## AIM:
 To write a Python program to **print BFS traversal** from a given source vertex.
-
+---
 ## ALGORITHM:
 
 **Step 1**: Start the program.
